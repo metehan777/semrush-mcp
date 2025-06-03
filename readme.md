@@ -34,19 +34,12 @@ semrush-mcp-server/
 ├── tsconfig.json
 ├── .env.example
 ├── .gitignore
-├── setup.sh
 └── README.md
 ```
 
 3. Save the provided files in their respective locations
 
-4. Make the setup script executable and run it:
-```bash
-chmod +x setup.sh
-./setup.sh
-```
-
-Or manually:
+Then manually:
 ```bash
 npm install
 npm run build
