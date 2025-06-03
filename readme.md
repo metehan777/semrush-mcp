@@ -27,7 +27,7 @@ cd semrush-mcp
 
 2. Create the following directory structure:
 ```
-semrush-mcp-server/
+semrush-mcp/
 ├── src/
 │   └── index.ts
 ├── package.json
