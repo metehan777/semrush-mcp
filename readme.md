@@ -162,7 +162,7 @@ Once configured, you can use natural language to access Semrush data:
 - "What's the search volume for 'digital marketing' keyword?"
 - "Show me the top organic keywords for techcrunch.com"
 - "Find competitors for shopify.com"
-- "Get backlink data for https://example.com/blog-post"
+- "Get backlink data for https://metehan.ai/semrush-mcp/"
 - "What related keywords can you find for 'content marketing'?"
 - "Show me the Google Ads keywords that amazon.com is bidding on"
 
