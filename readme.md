@@ -21,8 +21,8 @@ An MCP (Model Context Protocol) server that provides access to Semrush API funct
 
 1. Clone this repository or create a new directory:
 ```bash
-mkdir semrush-mcp-server
-cd semrush-mcp-server
+mkdir semrush-mcp
+cd semrush-mcp
 ```
 
 2. Create the following directory structure:
